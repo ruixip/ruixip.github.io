@@ -9,9 +9,9 @@ redirect_from:
 
 I am a fourth-year undergraduate student at the University of Michigan, pursuing a quadruple major in Computer Science, Data Science, Cognitive Science, and BCN (Biopsychology, Cognition, and Neuroscience) with a minor in Business. I'm working on my Honors Thesis in [Multisensory Perception Lab](https://sites.lsa.umich.edu/brang-lab/), advised by Dr. David Brang.
 
-My research interests focus on understanding how the human brain represents and processes speech over time. I am interested in how neural populations encode multiple levels of speech information and how these representations evolve dynamically during language comprehension.
+My research interests focus on understanding how visual speech cues influence auditory speech processing and how audiovisual integration supports speech comprehension. In my current work, I use intracranial electroencephalography (iEEG) to investigate how visual information shapes the neural encoding of speech.
 
-In my current work, I use intracranial electroencephalography (iEEG) to investigate how visual information interacts with auditory speech processing. More broadly, I am interested in how the brain integrates acoustic, linguistic, and visual information across time to support predictive and hierarchical language processing.
+More broadly, I am interested in how the brain dynamically represents speech across multiple levels of processing, from acoustic features and phonemes to words and sentence-level meaning. I am particularly interested in how the brain integrates acoustic, linguistic, and visual information across time to support predictive and hierarchical language processing.
 
 My long-term goal is to pursue a PhD in computational cognitive neuroscience, investigating the neural mechanisms underlying speech and multisensory perception.
 
