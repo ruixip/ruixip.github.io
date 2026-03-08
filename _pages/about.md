@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student at the University of Michigan, pursuing a quadruple major in Biopsychology, Cognition, and Neuroscience (BCN), Cognitive Science, Computer Science, and Data Science with a minor in Business. I'm working on my Honors Thesis in [Multisensory Perception Lab](https://sites.lsa.umich.edu/brang-lab/), advised by Dr. David Brang.
+I am a fourth-year undergraduate student at the University of Michigan, pursuing a quadruple major in Computer Science, Data Science, Cognitive Science, and BCN (Biopsychology, Cognition, and Neuroscience) with a minor in Business. I'm working on my Honors Thesis in [Multisensory Perception Lab](https://sites.lsa.umich.edu/brang-lab/), advised by Dr. David Brang.
 
-My research interests focus on using electrocorticography (ECoG) to understand how human brain processes speech information, and how visual information supports auditory speech processing. I am  interested in the neural mechanisms underlying audiovisual integration during speech, and how different acoustic and visual features contribute to speech comprehension.
+My research interests focus on understanding how the human brain represents and processes speech over time. I am interested in how neural populations encode multiple levels of speech information and how these representations evolve dynamically during language comprehension.
 
-My long-term goal is to pursue a PhD in computational cognitive neuroscience or a related field, investigating the neural mechanisms underlying speech and multisensory perception.
+In my current work, I use intracranial electroencephalography (iEEG) to investigate how visual information interacts with auditory speech processing. More broadly, I am interested in how the brain integrates acoustic, linguistic, and visual information across time to support predictive and hierarchical language processing.
+
+My long-term goal is to pursue a PhD in computational cognitive neuroscience, investigating the neural mechanisms underlying speech and multisensory perception.
 
 My name pronunciation is *RAY-shee Pyao* (朴睿熙).
 

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ruixi Piao"
+title                    : "Home
 title_separator          : "-"
 name                     : &name "Ruixi (Lucy) Piao"
 description              : &description "Personal Website of Ruixi Piao"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "LucyPiao.jpg" # filename of avatar image placed in /images/ for the author profile
   name             : "Ruixi (Lucy) Piao"
   pronouns         : "she/her"  
-  bio              : "Undergraduate student"
+  bio              : "Undergraduate student @UMich"
   location         : "Ann Arbor, Michigan"
   employer         : "University of Michigan"
   uri              : # URL
